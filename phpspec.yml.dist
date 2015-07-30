@@ -1,0 +1,5 @@
+suites:
+  metadata_suite:
+    namespace: Indigo\Metadata
+    psr4_prefix: Indigo\Metadata
+formatter.name: pretty
